@@ -3,7 +3,10 @@ using System.Data;
 using System.Configuration;
 using System.Data.SqlClient;
 using System.Data.SQLite;
+using System.Diagnostics;
+using System.IO;
 using System.Reflection;
+using System.Windows.Forms;
 using Microsoft.Data.Sqlite;
 
 namespace festival.persistance
@@ -64,8 +67,15 @@ namespace festival.persistance
             ConnectionStringSettings settings   = ConfigurationManager. ConnectionStrings ["mainDB"] ;
             if (settings!=null)
                 returnValue = settings.ConnectionString;
-            return new SqliteConnection(returnValue);
-           
+
+
+            string[] returns = returnValue.Split('=');
+            string dbString = Path.GetDirectoryName(
+                Assembly.GetExecutingAssembly().Location).Replace(@"\", "/");
+            
+            string kstr = dbString.Replace("/FestivalServer", "");
+            dbString = returns[0] + "=" + kstr + "/" + returns[1];
+            return new SQLiteConnection(dbString);
         }
     }
 }
