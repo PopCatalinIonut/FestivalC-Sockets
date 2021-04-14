@@ -1,0 +1,13 @@
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\bin\Debug\net45\networking.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\bin\Debug\net45\networking.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\bin\Debug\net45\model.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\bin\Debug\net45\services.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\bin\Debug\net45\model.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\bin\Debug\net45\services.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\obj\Debug\net45\networking.csprojAssemblyReference.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\obj\Debug\net45\networking.AssemblyInfoInputs.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\obj\Debug\net45\networking.AssemblyInfo.cs
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\obj\Debug\net45\networking.csproj.CoreCompileInputs.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\obj\Debug\net45\networking.csproj.CopyComplete
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\obj\Debug\net45\networking.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\networking\obj\Debug\net45\networking.pdb

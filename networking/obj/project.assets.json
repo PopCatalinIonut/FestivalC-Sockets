@@ -1,0 +1,159 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "SQLite/3.13.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "runtime": {
+          "lib/netstandard1.0/_._": {}
+        },
+        "build": {
+          "build/net45/SQLite.props": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libsqlite3.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx-x64/native/libsqlite3.dylib": {
+            "assetType": "native",
+            "rid": "osx-x64"
+          },
+          "runtimes/win7-x64/native/sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win7-x64"
+          },
+          "runtimes/win7-x86/native/sqlite3.dll": {
+            "assetType": "native",
+            "rid": "win7-x86"
+          }
+        }
+      },
+      "model/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/model.dll": {}
+        }
+      },
+      "services/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "dependencies": {
+          "model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SQLite/3.13.0": {
+      "sha512": "MJfRiz2p6aMVOxrxGMdVzhpzI0oxTgZSwC8eVuOpV8L7yYaFUu8q/OFYwv9P0/aZ/pdEu24O6gma6wZJMTun9A==",
+      "type": "package",
+      "path": "sqlite/3.13.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/net45/SQLite.props",
+        "lib/netstandard1.0/_._",
+        "runtimes/linux-x64/native/libsqlite3.so",
+        "runtimes/osx-x64/native/libsqlite3.dylib",
+        "runtimes/win10-arm/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win10-x64/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win10-x86/nativeassets/uap10.0/sqlite3.dll",
+        "runtimes/win7-x64/native/sqlite3.dll",
+        "runtimes/win7-x86/native/sqlite3.dll",
+        "sqlite-version.txt",
+        "sqlite.3.13.0.nupkg.sha512",
+        "sqlite.nuspec"
+      ]
+    },
+    "model/1.0.0": {
+      "type": "project",
+      "path": "../model/model.csproj",
+      "msbuildProject": "../model/model.csproj"
+    },
+    "services/1.0.0": {
+      "type": "project",
+      "path": "../services/services.csproj",
+      "msbuildProject": "../services/services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "SQLite >= 3.13.0",
+      "model >= 1.0.0",
+      "services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\papy_\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\papy_\\Desktop\\backup\\FESTIVAL CS\\networking\\networking.csproj",
+      "projectName": "networking",
+      "projectPath": "C:\\Users\\papy_\\Desktop\\backup\\FESTIVAL CS\\networking\\networking.csproj",
+      "packagesPath": "C:\\Users\\papy_\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\papy_\\Desktop\\backup\\FESTIVAL CS\\networking\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\papy_\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {
+            "C:\\Users\\papy_\\Desktop\\backup\\FESTIVAL CS\\model\\model.csproj": {
+              "projectPath": "C:\\Users\\papy_\\Desktop\\backup\\FESTIVAL CS\\model\\model.csproj"
+            },
+            "C:\\Users\\papy_\\Desktop\\backup\\FESTIVAL CS\\services\\services.csproj": {
+              "projectPath": "C:\\Users\\papy_\\Desktop\\backup\\FESTIVAL CS\\services\\services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "dependencies": {
+          "SQLite": {
+            "target": "Package",
+            "version": "[3.13.0, )"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

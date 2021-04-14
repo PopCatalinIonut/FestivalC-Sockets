@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net48</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\model\model.csproj" />
+      <ProjectReference Include="..\services\services.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="SQLite" Version="3.13.0" />
+    </ItemGroup>
+
+</Project>

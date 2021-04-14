@@ -1,0 +1,6 @@
+C:\Users\papy_\RiderProjects\FESTIVAL CS\FestivalModel\bin\Debug\FestivalModel.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\FestivalModel\bin\Debug\FestivalModel.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\FestivalModel\obj\Debug\FestivalModel.csprojAssemblyReference.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\FestivalModel\obj\Debug\FestivalModel.csproj.CoreCompileInputs.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\FestivalModel\obj\Debug\FestivalModel.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\FestivalModel\obj\Debug\FestivalModel.pdb

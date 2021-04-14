@@ -1,0 +1,16 @@
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\obj\Debug\FESTIVAL_CS.mainWindow.resources
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\bin\Debug\client.exe
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\bin\Debug\client.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\bin\Debug\model.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\bin\Debug\networking.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\bin\Debug\services.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\bin\Debug\model.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\bin\Debug\networking.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\bin\Debug\services.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\obj\Debug\client.csproj.CopyComplete
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\obj\Debug\client.exe
+C:\Users\papy_\RiderProjects\FESTIVAL CS\client\obj\Debug\client.pdb

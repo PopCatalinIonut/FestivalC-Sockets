@@ -1,0 +1,11 @@
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\bin\Debug\net45\services.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\bin\Debug\net45\services.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\bin\Debug\net45\model.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\bin\Debug\net45\model.pdb
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\obj\Debug\net45\services.csprojAssemblyReference.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\obj\Debug\net45\services.AssemblyInfoInputs.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\obj\Debug\net45\services.AssemblyInfo.cs
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\obj\Debug\net45\services.csproj.CoreCompileInputs.cache
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\obj\Debug\net45\services.csproj.CopyComplete
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\obj\Debug\net45\services.dll
+C:\Users\papy_\RiderProjects\FESTIVAL CS\services\obj\Debug\net45\services.pdb

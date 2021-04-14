@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VSxg5hdLEdPbbGSKEMwuYuzrLo5iZfOZ+u02+iYRd4/Wli/zWMG/rCCis9s84vp8IYFQ7YqU/nWPPOTqwnBK4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\papy_\\Desktop\\backup\\FESTIVAL CS\\networking\\networking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\papy_\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
